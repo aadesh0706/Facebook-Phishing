@@ -24,7 +24,7 @@ This project demonstrates the concepts behind phishing attacks through a **simul
 ## 🛠️ **Setup Instructions**
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Facebook-Phishing.git
+   git clone https://github.com/aadesh0706/Facebook-Phishing.git
    ```  
 2. Follow the steps in the `README.md` file for proper setup.  
 
