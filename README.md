@@ -21,12 +21,12 @@ This project demonstrates the concepts behind phishing attacks through a **simul
 
 ---
 
-## 🛠️ **Setup Instructions**  
+## 🛠️ **Setup Instructions**
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/Facebook-Phishing.git
    ```  
-2. Follow the steps in the [README.md](README.md) for a smooth setup.  
+2. Follow the steps in the `README.md` file for proper setup.  
 
 > ⚠️ **Important**: Use this project only in a **secure, isolated environment** for ethical research and learning.
 
@@ -41,4 +41,11 @@ This project is licensed under the [MIT License](LICENSE). 📝
 ## 🛑 **Disclaimer**  
 The author is not responsible for any misuse of this project.  
 > **Use responsibly and ethically!** 🕊️
-```  
+
+---
+
+## 📬 **Contact**  
+If you have any questions or need support, feel free to reach out:  
+📧 Email: [aadeshgulumbe3@gmail.com](mailto:aadeshgulumbe3@gmail.com)  
+🌐 GitHub: [@aadesh0706](https://github.com/aadesh0706)
+```
